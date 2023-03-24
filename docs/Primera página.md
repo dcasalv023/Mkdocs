@@ -9,8 +9,9 @@ Va a parecer esto como si fuera un curriculum, pero mis propias habilidades que 
 
 ### Datos de interes.
 Aquí te dejo algunos enlaces sobre mí que te podría interesar:
+
 - [Twitter](https://twitter.com/plaracil "Este es mi twitter").
-![Twitter](twitter.png)
+![Twitter](imagenes/twitter.png)
 
 - [Github](https://github.com/dcasalv023 "Este es mi github").
-![Github](Github.png)
+![Github](imagenes/Github.png)

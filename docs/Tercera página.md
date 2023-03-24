@@ -33,7 +33,7 @@ Ahora en otras materías como en **LMSGI** (Lenguaje de marcas) hemos dado *HTML
 ```
 
 
--   ![HTML](html.png)
+-   ![HTML](imagenes/html.png)
 
 
 
@@ -45,7 +45,7 @@ Ahora en otras materías como en **LMSGI** (Lenguaje de marcas) hemos dado *HTML
     padding-left: 10px;
 }
 ```
--   ![CSS](CSS.png)
+-   ![CSS](imagenes/CSS.png)
 
 
 
@@ -59,4 +59,4 @@ Ahora en otras materías como en **LMSGI** (Lenguaje de marcas) hemos dado *HTML
 </libro>
 ```
 
--   ![XML](XML.png)
+-   ![XML](imagenes/XML.png)

@@ -1,0 +1,19 @@
+site_name: Página MkDocs
+
+nav:
+          Primera página:
+            -Sobre mí
+            -Mis habilidades
+            -Datos de interes
+            
+          Segunda página:
+            -DAW (Desarrollo Aplicaciones Web)
+            -Horario
+            -Consejos
+            -Tareas por hacer
+            -Enlaced
+
+          Tercera página:
+          -Lenguaje de programación.
+
+theme: readthedocs
